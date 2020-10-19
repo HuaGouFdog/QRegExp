@@ -567,13 +567,13 @@ release\mainwindow.obj: mainwindow.cpp mainwindow.h \
 		..\..\QT\5.10.0\msvc2015_64\include\QtWidgets\qabstractbutton.h \
 		..\..\QT\5.10.0\msvc2015_64\include\QtWidgets\QScrollArea \
 		..\..\QT\5.10.0\msvc2015_64\include\QtWidgets\qscrollarea.h \
-		..\..\QT\5.10.0\msvc2015_64\include\QtWidgets\QSpacerItem \
 		..\..\QT\5.10.0\msvc2015_64\include\QtWidgets\QTextEdit \
 		..\..\QT\5.10.0\msvc2015_64\include\QtWidgets\qtextedit.h \
 		..\..\QT\5.10.0\msvc2015_64\include\QtGui\qtextdocument.h \
 		..\..\QT\5.10.0\msvc2015_64\include\QtWidgets\QWidget \
 		..\..\QT\5.10.0\msvc2015_64\include\QtCore\QRegExp \
-		..\..\QT\5.10.0\msvc2015_64\include\QtCore\QDebug
+		..\..\QT\5.10.0\msvc2015_64\include\QtCore\QDebug \
+		..\..\QT\5.10.0\msvc2015_64\include\QtCore\QString
 
 release\qrc_lib.obj: release\qrc_lib.cpp 
 

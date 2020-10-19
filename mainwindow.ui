@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>910</width>
+    <width>916</width>
     <height>688</height>
    </rect>
   </property>
@@ -158,16 +158,6 @@ border-radius:7px;</string>
         <string>匹配email地址</string>
        </property>
       </item>
-      <item>
-       <property name="text">
-        <string>匹配url</string>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>匹配html tag</string>
-       </property>
-      </item>
      </widget>
     </item>
     <item row="2" column="1">
@@ -316,7 +306,7 @@ border-radius:7px;</string>
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>884</width>
+         <width>890</width>
          <height>418</height>
         </rect>
        </property>
@@ -352,7 +342,7 @@ p, li { white-space: pre-wrap; }
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:24px; margin-left:0px; margin-right:0px;&quot; align=&quot;center&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#ffffff&quot;&gt;&lt;thead&gt;
 &lt;tr&gt;
 &lt;td bgcolor=&quot;#eff3f5&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; font-weight:696; color:#4f4f4f; background-color:#eff3f5;&quot;&gt;语法&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; font-weight:696; color:#4f4f4f; background-color:#eff3f5;&quot;&gt;常用标识&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
 &lt;td bgcolor=&quot;#eff3f5&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; font-weight:696; color:#4f4f4f; background-color:#eff3f5;&quot;&gt;含义&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;
 &lt;tr&gt;
@@ -474,21 +464,22 @@ p, li { white-space: pre-wrap; }
 &lt;td bgcolor=&quot;#f7f7f7&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#f7f7f7;&quot;&gt;a{3}&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
 &lt;td bgcolor=&quot;#f7f7f7&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#f7f7f7;&quot;&gt;3个a&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#ffffff;&quot;&gt;匹配a3次&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td bgcolor=&quot;#ffffff&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#ffffff;&quot;&gt;a{3,}&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
 &lt;td bgcolor=&quot;#ffffff&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#ffffff;&quot;&gt;3个或大于3个a&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#ffffff;&quot;&gt;匹配a大于等于3次&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td bgcolor=&quot;#f7f7f7&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#f7f7f7;&quot;&gt;a{,6}&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
-&lt;td bgcolor=&quot;#f7f7f7&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;td bgcolor=&quot;#f7f7f7&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#f7f7f7;&quot;&gt;a匹配至多m次，等价于a{0,6}&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td bgcolor=&quot;#ffffff&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#ffffff;&quot;&gt;a{3,6}&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
 &lt;td bgcolor=&quot;#ffffff&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#ffffff;&quot;&gt;a的个数在3和6之间（包括3和6）&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#ffffff;&quot;&gt;a匹配至少3次，至多6次（包括3和6）&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td bgcolor=&quot;#f7f7f7&quot; style=&quot; vertical-align:middle; padding-left:8; padding-right:8; padding-top:8; padding-bottom:8;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:22px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif'; font-size:14px; color:#4f4f4f; background-color:#f7f7f7;&quot;&gt;^&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
