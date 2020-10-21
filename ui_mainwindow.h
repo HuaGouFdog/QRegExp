@@ -90,13 +90,21 @@ public:
         comboBox->addItem(QString());
         comboBox->addItem(QString());
         comboBox->addItem(QString());
+        comboBox->addItem(QString());
+        comboBox->addItem(QString());
+        comboBox->addItem(QString());
+        comboBox->addItem(QString());
+        comboBox->addItem(QString());
+        comboBox->addItem(QString());
+        comboBox->addItem(QString());
+        comboBox->addItem(QString());
         comboBox->setObjectName(QStringLiteral("comboBox"));
         comboBox->setMinimumSize(QSize(0, 28));
         comboBox->setMaximumSize(QSize(1456456, 16777215));
         QFont font1;
         font1.setPointSize(16);
-        font1.setBold(false);
-        font1.setWeight(50);
+        font1.setBold(true);
+        font1.setWeight(75);
         comboBox->setFont(font1);
         comboBox->setStyleSheet(QLatin1String("background-color:rgba(0,0,0,77);\n"
 "border-color:rgba(0,0,0,102);\n"
@@ -242,7 +250,7 @@ public:
     {
         MainWindow->setWindowTitle(QApplication::translate("MainWindow", "\346\255\243\345\210\231\350\241\250\350\276\276\345\274\217\351\252\214\350\257\201", nullptr));
         label_5->setText(QApplication::translate("MainWindow", "\346\263\250\346\204\217\357\274\232C++\347\274\226\350\257\221\345\231\250\345\260\206\345\217\215\346\226\234\346\235\240\350\275\254\346\215\242\344\270\272\345\255\227\347\254\246\344\270\262\343\200\202\350\246\201\345\260\206\345\214\205\345\220\253\345\234\250\346\255\243\345\210\231\350\241\250\350\276\276\345\274\217\344\270\255\357\274\214\350\257\267\350\276\223\345\205\245\344\270\244\346\254\241\357\274\214\345\215\263\\\\\343\200\202\345\246\202\345\214\271\351\205\215\351\235\236\350\264\237\346\225\264\346\225\260\357\274\214\350\241\250\350\276\276\345\274\217\344\270\272^\\d+$,\344\275\206\345\234\250\345\255\227\347\254\246\344\270\262\344\270\255\345\272\224\345\206\231\344\270\272^\\\\d+$\343\200\202", nullptr));
-        comboBox->setItemText(0, QApplication::translate("MainWindow", "\350\207\252\345\256\232\344\271\211\350\241\250\350\276\276\345\274\217", nullptr));
+        comboBox->setItemText(0, QApplication::translate("MainWindow", "\350\207\252\345\256\232\344\271\211", nullptr));
         comboBox->setItemText(1, QApplication::translate("MainWindow", "\345\214\271\351\205\215\351\235\236\350\264\237\346\225\264\346\225\260\357\274\210\346\255\243\346\225\264\346\225\260 + 0\357\274\211", nullptr));
         comboBox->setItemText(2, QApplication::translate("MainWindow", "\345\214\271\351\205\215\346\255\243\346\225\264\346\225\260", nullptr));
         comboBox->setItemText(3, QApplication::translate("MainWindow", "\345\214\271\351\205\215\351\235\236\346\255\243\346\225\264\346\225\260\357\274\210\350\264\237\346\225\264\346\225\260 + 0", nullptr));
@@ -259,6 +267,14 @@ public:
         comboBox->setItemText(14, QApplication::translate("MainWindow", "\345\214\271\351\205\215\347\224\261\346\225\260\345\255\227\345\222\21426\344\270\252\350\213\261\346\226\207\345\255\227\346\257\215\347\273\204\346\210\220\347\232\204\345\255\227\347\254\246\344\270\262", nullptr));
         comboBox->setItemText(15, QApplication::translate("MainWindow", "\345\214\271\351\205\215\347\224\261\346\225\260\345\255\227\343\200\20126\344\270\252\350\213\261\346\226\207\345\255\227\346\257\215\346\210\226\350\200\205\344\270\213\345\210\222\347\272\277\347\273\204\346\210\220\347\232\204\345\255\227\347\254\246\344\270\262", nullptr));
         comboBox->setItemText(16, QApplication::translate("MainWindow", "\345\214\271\351\205\215email\345\234\260\345\235\200", nullptr));
+        comboBox->setItemText(17, QApplication::translate("MainWindow", "\345\214\271\351\205\215\346\227\266\351\227\264\346\240\274\345\274\217 2020-10-20", nullptr));
+        comboBox->setItemText(18, QApplication::translate("MainWindow", "\345\214\271\351\205\215\346\225\260\345\255\227\343\200\201\345\255\227\346\257\215\343\200\201\344\270\213\345\210\222\347\272\277", nullptr));
+        comboBox->setItemText(19, QApplication::translate("MainWindow", "\345\214\271\351\205\215\346\211\213\346\234\272\345\217\267", nullptr));
+        comboBox->setItemText(20, QApplication::translate("MainWindow", "\345\214\271\351\205\215\350\272\253\344\273\275\350\257\201", nullptr));
+        comboBox->setItemText(21, QApplication::translate("MainWindow", "\345\214\271\351\205\215\347\275\221\345\235\200URL\347\232\204\346\255\243\345\210\231\350\241\250\350\276\276\345\274\217", nullptr));
+        comboBox->setItemText(22, QApplication::translate("MainWindow", "\345\214\271\351\205\215\345\255\227\346\257\215\345\274\200\345\244\264\357\274\214\345\205\201\350\256\2705-16\345\255\227\350\212\202\357\274\214\345\205\201\350\256\270\345\255\227\346\257\215\346\225\260\345\255\227\344\270\213\345\210\222\347\272\277", nullptr));
+        comboBox->setItemText(23, QApplication::translate("MainWindow", "\345\214\271\351\205\215\344\270\255\345\233\275\351\202\256\346\224\277\347\274\226\347\240\201", nullptr));
+        comboBox->setItemText(24, QApplication::translate("MainWindow", "\345\214\271\351\205\215ip\345\234\260\345\235\200", nullptr));
 
         label_2->setText(QApplication::translate("MainWindow", "\350\207\252\345\256\232\344\271\211\346\255\243\345\210\231\350\241\250\350\276\276\345\274\217\357\274\232", nullptr));
         lineEdit_2->setText(QString());

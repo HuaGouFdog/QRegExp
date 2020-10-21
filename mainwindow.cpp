@@ -52,4 +52,12 @@ void MainWindow::on_comboBox_activated(int index)
     if(index==14)ui->lineEdit_2->setText(str_14);
     if(index==15)ui->lineEdit_2->setText(str_15);
     if(index==16)ui->lineEdit_2->setText(str_16);
+    if(index==17)ui->lineEdit_2->setText(str_17);
+    if(index==18)ui->lineEdit_2->setText(str_18);
+    if(index==19)ui->lineEdit_2->setText(str_19);
+    if(index==20)ui->lineEdit_2->setText(str_20);
+    if(index==21)ui->lineEdit_2->setText(str_21);
+    if(index==22)ui->lineEdit_2->setText(str_22);
+    if(index==23)ui->lineEdit_2->setText(str_23);
+    if(index==24)ui->lineEdit_2->setText(str_24);
 }

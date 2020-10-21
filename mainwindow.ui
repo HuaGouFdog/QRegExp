@@ -61,8 +61,8 @@
       <property name="font">
        <font>
         <pointsize>16</pointsize>
-        <weight>50</weight>
-        <bold>false</bold>
+        <weight>75</weight>
+        <bold>true</bold>
        </font>
       </property>
       <property name="styleSheet">
@@ -75,7 +75,7 @@ border-radius:7px;</string>
       </property>
       <item>
        <property name="text">
-        <string>自定义表达式</string>
+        <string>自定义</string>
        </property>
       </item>
       <item>
@@ -156,6 +156,46 @@ border-radius:7px;</string>
       <item>
        <property name="text">
         <string>匹配email地址</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>匹配时间格式 2020-10-20</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>匹配数字、字母、下划线</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>匹配手机号</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>匹配身份证</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>匹配网址URL的正则表达式</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>匹配字母开头，允许5-16字节，允许字母数字下划线</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>匹配中国邮政编码</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>匹配ip地址</string>
        </property>
       </item>
      </widget>
